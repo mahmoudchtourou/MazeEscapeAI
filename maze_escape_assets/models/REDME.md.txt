@@ -1,0 +1,5 @@
+# Models
+
+Les modèles entraînés `.pth` ne sont pas inclus dans ce dépôt car ils sont trop volumineux pour l’upload GitHub via navigateur.
+
+Pour exécuter les notebooks avec les modèles pré-entraînés, placez les fichiers `.pth` dans ce dossier.
